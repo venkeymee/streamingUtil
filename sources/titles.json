@@ -1,0 +1,276 @@
+{
+    "title": {
+        "id": 798,
+        "name": "Spice Is Nice",
+        "title": "Spice Is Nice",
+        "language": null,
+        "title_type": "Episode",
+        "episode_number": 9,
+        "season_id": 171,
+        "created_at": "2020-08-06T05:09:01.000Z",
+        "updated_at": "2020-08-06T05:09:01.000Z",
+        "genres": [
+            {
+                "id": 1,
+                "name": "Cooking",
+                "created_at": "2020-07-04T14:58:02.000Z",
+                "updated_at": "2020-07-04T14:58:02.000Z"
+            }
+        ],
+        "season": {
+            "id": 171,
+            "season_name": "Struggle Meals",
+            "season_type": "109",
+            "season_number": 3,
+            "series_id": 109,
+            "created_at": "2020-08-06T04:49:01.000Z",
+            "updated_at": "2020-08-06T04:49:01.000Z",
+            "language": null
+        },
+        "assets": [
+            {
+                "id": 1581,
+                "asset_type": "video",
+                "runtime": "2000-01-01T00:22:00.000Z",
+                "runtime_frames": null,
+                "runtime_fps": 29.97,
+                "title_id": 798,
+                "is_default": false,
+                "created_at": "2020-08-06T05:09:02.000Z",
+                "updated_at": "2020-08-06T05:09:02.000Z"
+            },
+            {
+                "id": 2255,
+                "asset_type": "video",
+                "runtime": "2000-01-01T00:22:00.000Z",
+                "runtime_frames": null,
+                "runtime_fps": 29.97,
+                "title_id": 798,
+                "is_default": false,
+                "created_at": "2020-08-08T15:00:08.000Z",
+                "updated_at": "2020-08-08T15:00:08.000Z"
+            },
+            {
+                "id": 2907,
+                "asset_type": "video",
+                "runtime": "2000-01-01T00:22:00.000Z",
+                "runtime_frames": null,
+                "runtime_fps": 29.97,
+                "title_id": 798,
+                "is_default": false,
+                "created_at": "2020-08-11T00:47:10.000Z",
+                "updated_at": "2020-08-11T00:47:10.000Z"
+            },
+            {
+                "id": 3585,
+                "asset_type": "video",
+                "runtime": "2000-01-01T00:22:00.000Z",
+                "runtime_frames": null,
+                "runtime_fps": 29.97,
+                "title_id": 798,
+                "is_default": false,
+                "created_at": "2020-08-13T16:43:28.000Z",
+                "updated_at": "2020-08-13T16:43:28.000Z"
+            },
+            {
+                "id": 4261,
+                "asset_type": "video",
+                "runtime": "2000-01-01T00:22:00.000Z",
+                "runtime_frames": null,
+                "runtime_fps": 29.97,
+                "title_id": 798,
+                "is_default": false,
+                "created_at": "2020-08-19T06:07:24.000Z",
+                "updated_at": "2020-08-19T06:07:24.000Z"
+            }
+        ],
+        "metadatum": {
+            "id": 1330,
+            "meta_json": "[{\"epguid\":\"tmk-video-d3eb5f3e814449bd9d61c7a729155a15\",\"epupdatedat\":\"2021-05-07T18:16:52.950Z\",\"eptmsid\":\"EP030064860044\",\"licenseStartDate\":\"2020-03-27T03:00:00.000Z\",\"licenseEndDate\":\"\",\"item1\":[\"langCode\",\"productionCountry\",\"countryOfOrigin\",\"isFeatured\",\"showCategory\",\"svodGeoWhitelist\",\"svodSampleStartDate\",\"svodSampleEndDate\",\"svodExpireDate\",\"lvodExpireDate\",\"isSVODSample\"],\"item2\":[\"en-US\",\"US\",\"US\",\"true\",\"Recipes\",\"international\",\"2021-01-01T08:00:00.000Z\",\"2021-02-06T07:59:00.000Z\",\"2022-01-01T08:00:00.000Z\",\"2022-01-01T08:00:00.000Z\",\"true\"],\"platforms\":[\"amazon\",\"sling\",\"hulu\",\"apple\"],\"adbreakpoints\":\"00:06:09:01,00:11:07:20,00:16:27:20,00:22:00:00\",\"category\":\"food\",\"version\":\"14\",\"status\":\"ReadyForDistribution\",\"componentState\":{\"audio\":\"Not Available\",\"video\":\"Not Available\",\"thumbnail\":\"Not Available\",\"metadata\":\"Not Available\"},\"rating\":\"TV-G\",\"stausUpdateTime\":\"\\\"2021-05-17T18:43:55.430Z\\\"\",\"failureDescription\":\"\",\"episode_thumbnail_url\":\"s3://dev-vod-ingestion/vod/tastemade/tmk-series-baf9d826738248bd9c1c4b5137952c27/tmk-video-d3eb5f3e814449bd9d61c7a729155a15/thumbnails/dbde1389-smtv-6917.jpg\",\"episode_mediacontent_url\":\"s3://dev-vod-ingestion/vod/tastemade/tmk-series-baf9d826738248bd9c1c4b5137952c27/tmk-video-d3eb5f3e814449bd9d61c7a729155a15/assets/df4591e2-stml-309-spiceisnice-040720-h264.mp4\",\"episode_cc_url\":\"s3://dev-vod-ingestion/vod/tastemade/tmk-series-baf9d826738248bd9c1c4b5137952c27/tmk-video-d3eb5f3e814449bd9d61c7a729155a15/closedcaptions/345905.scc\",\"video_info\":{\"context\":[\"ic_6892597\",\"ic_9994410\",\"ic_5095749\",\"ic_4284519\",\"ic_5358244\"],\"iris_id\":\"iris_6574597bfc1c5cad\"}}]",
+            "material_type": "Title",
+            "material_id": 798,
+            "created_at": "2020-08-06T05:09:02.000Z",
+            "updated_at": "2021-05-17T18:43:55.000Z"
+        },
+        "credits": [],
+        "resources": [
+            {
+                "id": 6164,
+                "resource_type": "companion_video",
+                "encoding": null,
+                "width": null,
+                "height": null,
+                "aspect_ratio": null,
+                "file_name": null,
+                "file_size": null,
+                "file_md5": null,
+                "file_location": "",
+                "material_type": "Title",
+                "material_id": 798,
+                "created_at": "2020-08-06T05:09:02.000Z",
+                "updated_at": "2020-08-06T05:09:02.000Z"
+            },
+            {
+                "id": 6165,
+                "resource_type": "video",
+                "encoding": "mp4",
+                "width": null,
+                "height": null,
+                "aspect_ratio": null,
+                "file_name": null,
+                "file_size": null,
+                "file_md5": null,
+                "file_location": "https://s3.amazonaws.com/truffle-originals/df4591e2-stml-309-spiceisnice-040720-h264.mp4",
+                "material_type": "Title",
+                "material_id": 798,
+                "created_at": "2020-08-06T05:09:02.000Z",
+                "updated_at": "2020-08-06T05:09:02.000Z"
+            },
+            {
+                "id": 6167,
+                "resource_type": "video",
+                "encoding": null,
+                "width": null,
+                "height": null,
+                "aspect_ratio": null,
+                "file_name": null,
+                "file_size": null,
+                "file_md5": null,
+                "file_location": "https://s3-us-west-1.amazonaws.com/com.tastemade.editshare-public/0e771d35-stml-309-spiceisnice-031220-prores.mov",
+                "material_type": "Title",
+                "material_id": 798,
+                "created_at": "2020-08-06T05:09:02.000Z",
+                "updated_at": "2020-08-06T05:09:02.000Z"
+            },
+            {
+                "id": 6171,
+                "resource_type": "thumbnail",
+                "encoding": null,
+                "width": 1920,
+                "height": 1080,
+                "aspect_ratio": null,
+                "file_name": null,
+                "file_size": null,
+                "file_md5": null,
+                "file_location": "https://truffle-assets.imgix.net/dbde1389-smtv-6917.jpg?w=1920",
+                "material_type": "Title",
+                "material_id": 798,
+                "created_at": "2020-08-06T05:09:02.000Z",
+                "updated_at": "2020-08-06T05:09:02.000Z"
+            },
+            {
+                "id": 6172,
+                "resource_type": "closedCaptions",
+                "encoding": null,
+                "width": null,
+                "height": null,
+                "aspect_ratio": null,
+                "file_name": null,
+                "file_size": null,
+                "file_md5": null,
+                "file_location": "https://s3.amazonaws.com/truffle-captions/en-us/345905.scc",
+                "material_type": "Title",
+                "material_id": 798,
+                "created_at": "2020-08-06T05:09:02.000Z",
+                "updated_at": "2020-08-06T05:09:02.000Z"
+            }
+        ],
+        "descriptions": [
+            {
+                "id": 869,
+                "description_minor": "Spice Is Nice",
+                "description_major": "Flavor, flavor, flavor. Frankie shows us the way around the spice cabinet. You know that area in your pantry that collects dust? Well get ready to dust it off. All it takes is a couple primary dried spices to make a variety of homemade spice blends. Plus, they're is a fraction of the cost of buying them pre-mixed. Bonus: Frankie also tackles a monster challenge with our favorite monster guest!",
+                "language": "english",
+                "material_type": "Title",
+                "material_id": 798,
+                "created_at": "2020-08-06T05:09:02.000Z",
+                "updated_at": "2020-08-06T05:09:02.000Z"
+            }
+        ],
+        "external_ids": [
+            {
+                "id": 1898,
+                "domain": "Amagi",
+                "external_source": "Amagi",
+                "external_source_id": "tmk-video-d3eb5f3e814449bd9d61c7a729155a15",
+                "material_type": "Title",
+                "material_id": 798,
+                "created_at": "2020-08-06T05:09:01.000Z",
+                "updated_at": "2020-08-06T05:09:01.000Z"
+            },
+            {
+                "id": 1899,
+                "domain": "TMS",
+                "external_source": "TMS",
+                "external_source_id": "EP030064860044",
+                "material_type": "Title",
+                "material_id": 798,
+                "created_at": "2020-08-06T05:09:01.000Z",
+                "updated_at": "2020-08-06T05:09:01.000Z"
+            }
+        ],
+        "rights": [
+            {
+                "id": 2597,
+                "starts": "2020-03-27T03:00:00.000Z",
+                "ends": null,
+                "material_type": "Title",
+                "material_id": 798,
+                "platform_id": 446,
+                "created_at": "2020-08-06T05:09:02.000Z",
+                "updated_at": "2021-05-07T18:22:12.000Z",
+                "lifetime_frequency": null
+            },
+            {
+                "id": 4174,
+                "starts": "2020-03-27T03:00:00.000Z",
+                "ends": null,
+                "material_type": "Title",
+                "material_id": 798,
+                "platform_id": 452,
+                "created_at": "2020-08-19T06:07:23.000Z",
+                "updated_at": "2021-05-17T18:40:19.000Z",
+                "lifetime_frequency": null
+            },
+            {
+                "id": 5322,
+                "starts": "2020-03-27T03:00:00.000Z",
+                "ends": null,
+                "material_type": "Title",
+                "material_id": 798,
+                "platform_id": 455,
+                "created_at": "2020-12-03T17:39:08.000Z",
+                "updated_at": "2020-12-18T07:36:43.000Z",
+                "lifetime_frequency": null
+            },
+            {
+                "id": 5796,
+                "starts": "2020-03-27T03:00:00.000Z",
+                "ends": null,
+                "material_type": "Title",
+                "material_id": 798,
+                "platform_id": 465,
+                "created_at": "2021-05-20T06:08:05.000Z",
+                "updated_at": "2021-05-20T06:08:05.000Z",
+                "lifetime_frequency": null
+            }
+        ],
+        "ratings": [
+            {
+                "id": 775,
+                "code": "TV-G",
+                "rating_description": null,
+                "provider": "",
+                "advisories": "",
+                "material_type": "Title",
+                "material_id": 798,
+                "created_at": "2020-08-06T05:09:02.000Z",
+                "updated_at": "2020-08-06T05:09:02.000Z",
+                "country": null
+            }
+        ],
+        "publication": null,
+        "frequency_caps": [],
+        "title_translations": []
+    }
+}

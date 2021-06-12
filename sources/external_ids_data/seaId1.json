@@ -1,0 +1,17 @@
+{
+    "titles": [
+        {
+            "id": 1203,
+            "name": "Modern Cuisine in Mexico City",
+            "title": "Modern Cuisine in Mexico City",
+            "language": null,
+            "title_type": "Episode",
+            "episode_number": 6,
+            "season_id": 265,
+            "created_at": "2020-08-07T19:26:02.000Z"
+        }
+    ],
+    "meta": {
+        "total": 1
+    }
+}

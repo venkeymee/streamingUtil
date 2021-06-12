@@ -1,0 +1,187 @@
+{
+    "season": [
+        {
+            "id": 171,
+            "season_name": "Struggle Meals",
+            "season_type": "109",
+            "season_number": 3,
+            "language": null,
+            "created_at": "2020-08-06T04:49:01.000Z",
+            "updated_at": "2020-08-06T04:49:01.000Z",
+            "series_id": 109,
+            "titles": [
+                {
+                    "id": 780,
+                    "name": "Beans Beans Beans",
+                    "title": "Beans Beans Beans",
+                    "title_type": "Episode",
+                    "episode_number": 4,
+                    "season_id": 171,
+                    "created_at": "2020-08-06T04:49:01.000Z",
+                    "updated_at": "2020-08-06T04:49:01.000Z",
+                    "language": null
+                },
+                {
+                    "id": 788,
+                    "name": "Game Day",
+                    "title": "Game Day",
+                    "title_type": "Episode",
+                    "episode_number": 1,
+                    "season_id": 171,
+                    "created_at": "2020-08-06T05:00:02.000Z",
+                    "updated_at": "2020-08-06T05:00:02.000Z",
+                    "language": null
+                },
+                {
+                    "id": 792,
+                    "name": "No Kitchen No Problem",
+                    "title": "No Kitchen No Problem",
+                    "title_type": "Episode",
+                    "episode_number": 7,
+                    "season_id": 171,
+                    "created_at": "2020-08-06T05:05:02.000Z",
+                    "updated_at": "2020-08-06T05:05:02.000Z",
+                    "language": null
+                },
+                {
+                    "id": 794,
+                    "name": "Mushroom Mania",
+                    "title": "Mushroom Mania",
+                    "title_type": "Episode",
+                    "episode_number": 6,
+                    "season_id": 171,
+                    "created_at": "2020-08-06T05:05:02.000Z",
+                    "updated_at": "2020-08-06T05:05:02.000Z",
+                    "language": null
+                },
+                {
+                    "id": 797,
+                    "name": "Spring Fling",
+                    "title": "Spring Fling",
+                    "title_type": "Episode",
+                    "episode_number": 8,
+                    "season_id": 171,
+                    "created_at": "2020-08-06T05:09:01.000Z",
+                    "updated_at": "2020-08-06T05:09:01.000Z",
+                    "language": null
+                },
+                {
+                    "id": 798,
+                    "name": "Spice Is Nice",
+                    "title": "Spice Is Nice",
+                    "title_type": "Episode",
+                    "episode_number": 9,
+                    "season_id": 171,
+                    "created_at": "2020-08-06T05:09:01.000Z",
+                    "updated_at": "2020-08-06T05:09:01.000Z",
+                    "language": null
+                },
+                {
+                    "id": 799,
+                    "name": "Root-to-Stem",
+                    "title": "Root-to-Stem",
+                    "title_type": "Episode",
+                    "episode_number": 10,
+                    "season_id": 171,
+                    "created_at": "2020-08-06T05:09:01.000Z",
+                    "updated_at": "2020-08-06T05:09:01.000Z",
+                    "language": null
+                },
+                {
+                    "id": 801,
+                    "name": "Rent Week",
+                    "title": "Rent Week",
+                    "title_type": "Episode",
+                    "episode_number": 5,
+                    "season_id": 171,
+                    "created_at": "2020-08-06T05:09:01.000Z",
+                    "updated_at": "2020-08-06T05:09:01.000Z",
+                    "language": null
+                },
+                {
+                    "id": 810,
+                    "name": "Valentine's Day",
+                    "title": "Valentine's Day",
+                    "title_type": "Episode",
+                    "episode_number": 3,
+                    "season_id": 171,
+                    "created_at": "2020-08-06T05:19:02.000Z",
+                    "updated_at": "2020-08-06T05:19:02.000Z",
+                    "language": null
+                },
+                {
+                    "id": 811,
+                    "name": "Winter is Here",
+                    "title": "Winter is Here",
+                    "title_type": "Episode",
+                    "episode_number": 2,
+                    "season_id": 171,
+                    "created_at": "2020-08-06T05:19:02.000Z",
+                    "updated_at": "2020-08-06T05:19:02.000Z",
+                    "language": null
+                },
+                {
+                    "id": 1544,
+                    "name": "Holiday Flavors",
+                    "title": "Holiday Flavors",
+                    "title_type": "Episode",
+                    "episode_number": 11,
+                    "season_id": 171,
+                    "created_at": "2020-11-10T22:03:12.000Z",
+                    "updated_at": "2020-11-10T22:03:12.000Z",
+                    "language": null
+                },
+                {
+                    "id": 1568,
+                    "name": "Less Stress Holidays",
+                    "title": "Less Stress Holidays",
+                    "title_type": "Episode",
+                    "episode_number": 12,
+                    "season_id": 171,
+                    "created_at": "2020-12-03T23:57:16.000Z",
+                    "updated_at": "2020-12-03T23:57:16.000Z",
+                    "language": null
+                }
+            ],
+            "series": {
+                "id": 109,
+                "series_name": "Struggle Meals",
+                "created_at": "2020-08-06T04:44:01.000Z",
+                "updated_at": "2020-08-06T04:44:01.000Z",
+                "language": null
+            },
+            "genres": [],
+            "metadatum": null,
+            "credits": [],
+            "resources": [],
+            "descriptions": [],
+            "external_ids": [
+                {
+                    "id": 1856,
+                    "domain": "Amagi",
+                    "external_source": "Amagi",
+                    "external_source_id": "tmk-series-baf9d826738248bd9c1c4b5137952c27",
+                    "material_type": "Season",
+                    "material_id": 171,
+                    "created_at": "2020-08-06T04:49:01.000Z",
+                    "updated_at": "2020-08-06T04:49:01.000Z"
+                },
+                {
+                    "id": 1857,
+                    "domain": "TMS",
+                    "external_source": "TMS",
+                    "external_source_id": "SH030064860000",
+                    "material_type": "Season",
+                    "material_id": 171,
+                    "created_at": "2020-08-06T04:49:01.000Z",
+                    "updated_at": "2020-08-06T04:49:01.000Z"
+                }
+            ],
+            "rights": [],
+            "ratings": [],
+            "publication": null,
+            "frequency_caps": [],
+            "season_translations": []
+        }
+    ]
+}

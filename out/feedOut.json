@@ -1,0 +1,486 @@
+{
+    "providerName": "_",
+    "language": "_",
+    "lastUpdated": "_",
+    "series": [
+        {
+            "id": 109,
+            "title": "Struggle Meals",
+            "releaseDate": "2020-08-06T04:44:01.000Z",
+            "thumbnail": "",
+            "thumbnailBoxcover": "",
+            "genres": [
+                {
+                    "name": ""
+                }
+            ],
+            "seasons": [
+                {
+                    "seasonNumber": 2,
+                    "episodes": []
+                },
+                {
+                    "seasonNumber": 1,
+                    "episodes": []
+                },
+                {
+                    "seasonNumber": 1,
+                    "episodes": []
+                },
+                {
+                    "seasonNumber": 3,
+                    "episodes": [
+                        {
+                            "id": 780,
+                            "title": "Beans Beans Beans",
+                            "episodeNumber": 4,
+                            "releaseDate": "2020-08-06T04:49:01.000Z",
+                            "thumbnail": "",
+                            "shortDescription": "",
+                            "longDescription": "",
+                            "content": {
+                                "dateAdded": "",
+                                "language": "",
+                                "duration": "",
+                                "videos": [
+                                    {
+                                        "url": "",
+                                        "quality": "",
+                                        "videoType": ""
+                                    }
+                                ],
+                                "captions": [
+                                    {
+                                        "url": "_",
+                                        "language": "_",
+                                        "captionType": "_"
+                                    }
+                                ],
+                                "trickPlayFiles": [
+                                    {
+                                        "url": "_",
+                                        "quality": "_"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "id": 788,
+                            "title": "Game Day",
+                            "episodeNumber": 1,
+                            "releaseDate": "2020-08-06T05:00:02.000Z",
+                            "thumbnail": "",
+                            "shortDescription": "",
+                            "longDescription": "",
+                            "content": {
+                                "dateAdded": "",
+                                "language": "",
+                                "duration": "",
+                                "videos": [
+                                    {
+                                        "url": "",
+                                        "quality": "",
+                                        "videoType": ""
+                                    }
+                                ],
+                                "captions": [
+                                    {
+                                        "url": "_",
+                                        "language": "_",
+                                        "captionType": "_"
+                                    }
+                                ],
+                                "trickPlayFiles": [
+                                    {
+                                        "url": "_",
+                                        "quality": "_"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "id": 792,
+                            "title": "No Kitchen No Problem",
+                            "episodeNumber": 7,
+                            "releaseDate": "2020-08-06T05:05:02.000Z",
+                            "thumbnail": "",
+                            "shortDescription": "",
+                            "longDescription": "",
+                            "content": {
+                                "dateAdded": "",
+                                "language": "",
+                                "duration": "",
+                                "videos": [
+                                    {
+                                        "url": "",
+                                        "quality": "",
+                                        "videoType": ""
+                                    }
+                                ],
+                                "captions": [
+                                    {
+                                        "url": "_",
+                                        "language": "_",
+                                        "captionType": "_"
+                                    }
+                                ],
+                                "trickPlayFiles": [
+                                    {
+                                        "url": "_",
+                                        "quality": "_"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "id": 794,
+                            "title": "Mushroom Mania",
+                            "episodeNumber": 6,
+                            "releaseDate": "2020-08-06T05:05:02.000Z",
+                            "thumbnail": "",
+                            "shortDescription": "",
+                            "longDescription": "",
+                            "content": {
+                                "dateAdded": "",
+                                "language": "",
+                                "duration": "",
+                                "videos": [
+                                    {
+                                        "url": "",
+                                        "quality": "",
+                                        "videoType": ""
+                                    }
+                                ],
+                                "captions": [
+                                    {
+                                        "url": "_",
+                                        "language": "_",
+                                        "captionType": "_"
+                                    }
+                                ],
+                                "trickPlayFiles": [
+                                    {
+                                        "url": "_",
+                                        "quality": "_"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "id": 797,
+                            "title": "Spring Fling",
+                            "episodeNumber": 8,
+                            "releaseDate": "2020-08-06T05:09:01.000Z",
+                            "thumbnail": "",
+                            "shortDescription": "",
+                            "longDescription": "",
+                            "content": {
+                                "dateAdded": "",
+                                "language": "",
+                                "duration": "",
+                                "videos": [
+                                    {
+                                        "url": "",
+                                        "quality": "",
+                                        "videoType": ""
+                                    }
+                                ],
+                                "captions": [
+                                    {
+                                        "url": "_",
+                                        "language": "_",
+                                        "captionType": "_"
+                                    }
+                                ],
+                                "trickPlayFiles": [
+                                    {
+                                        "url": "_",
+                                        "quality": "_"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "id": 798,
+                            "title": "Spice Is Nice",
+                            "episodeNumber": 9,
+                            "releaseDate": "2020-08-06T05:09:01.000Z",
+                            "thumbnail": "",
+                            "shortDescription": "",
+                            "longDescription": "",
+                            "content": {
+                                "dateAdded": "",
+                                "language": "",
+                                "duration": "",
+                                "videos": [
+                                    {
+                                        "url": "",
+                                        "quality": "",
+                                        "videoType": ""
+                                    }
+                                ],
+                                "captions": [
+                                    {
+                                        "url": "_",
+                                        "language": "_",
+                                        "captionType": "_"
+                                    }
+                                ],
+                                "trickPlayFiles": [
+                                    {
+                                        "url": "_",
+                                        "quality": "_"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "id": 799,
+                            "title": "Root-to-Stem",
+                            "episodeNumber": 10,
+                            "releaseDate": "2020-08-06T05:09:01.000Z",
+                            "thumbnail": "",
+                            "shortDescription": "",
+                            "longDescription": "",
+                            "content": {
+                                "dateAdded": "",
+                                "language": "",
+                                "duration": "",
+                                "videos": [
+                                    {
+                                        "url": "",
+                                        "quality": "",
+                                        "videoType": ""
+                                    }
+                                ],
+                                "captions": [
+                                    {
+                                        "url": "_",
+                                        "language": "_",
+                                        "captionType": "_"
+                                    }
+                                ],
+                                "trickPlayFiles": [
+                                    {
+                                        "url": "_",
+                                        "quality": "_"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "id": 801,
+                            "title": "Rent Week",
+                            "episodeNumber": 5,
+                            "releaseDate": "2020-08-06T05:09:01.000Z",
+                            "thumbnail": "",
+                            "shortDescription": "",
+                            "longDescription": "",
+                            "content": {
+                                "dateAdded": "",
+                                "language": "",
+                                "duration": "",
+                                "videos": [
+                                    {
+                                        "url": "",
+                                        "quality": "",
+                                        "videoType": ""
+                                    }
+                                ],
+                                "captions": [
+                                    {
+                                        "url": "_",
+                                        "language": "_",
+                                        "captionType": "_"
+                                    }
+                                ],
+                                "trickPlayFiles": [
+                                    {
+                                        "url": "_",
+                                        "quality": "_"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "id": 810,
+                            "title": "Valentine's Day",
+                            "episodeNumber": 3,
+                            "releaseDate": "2020-08-06T05:19:02.000Z",
+                            "thumbnail": "",
+                            "shortDescription": "",
+                            "longDescription": "",
+                            "content": {
+                                "dateAdded": "",
+                                "language": "",
+                                "duration": "",
+                                "videos": [
+                                    {
+                                        "url": "",
+                                        "quality": "",
+                                        "videoType": ""
+                                    }
+                                ],
+                                "captions": [
+                                    {
+                                        "url": "_",
+                                        "language": "_",
+                                        "captionType": "_"
+                                    }
+                                ],
+                                "trickPlayFiles": [
+                                    {
+                                        "url": "_",
+                                        "quality": "_"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "id": 811,
+                            "title": "Winter is Here",
+                            "episodeNumber": 2,
+                            "releaseDate": "2020-08-06T05:19:02.000Z",
+                            "thumbnail": "",
+                            "shortDescription": "",
+                            "longDescription": "",
+                            "content": {
+                                "dateAdded": "",
+                                "language": "",
+                                "duration": "",
+                                "videos": [
+                                    {
+                                        "url": "",
+                                        "quality": "",
+                                        "videoType": ""
+                                    }
+                                ],
+                                "captions": [
+                                    {
+                                        "url": "_",
+                                        "language": "_",
+                                        "captionType": "_"
+                                    }
+                                ],
+                                "trickPlayFiles": [
+                                    {
+                                        "url": "_",
+                                        "quality": "_"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "id": 1544,
+                            "title": "Holiday Flavors",
+                            "episodeNumber": 11,
+                            "releaseDate": "2020-11-10T22:03:12.000Z",
+                            "thumbnail": "",
+                            "shortDescription": "",
+                            "longDescription": "",
+                            "content": {
+                                "dateAdded": "",
+                                "language": "",
+                                "duration": "",
+                                "videos": [
+                                    {
+                                        "url": "",
+                                        "quality": "",
+                                        "videoType": ""
+                                    }
+                                ],
+                                "captions": [
+                                    {
+                                        "url": "_",
+                                        "language": "_",
+                                        "captionType": "_"
+                                    }
+                                ],
+                                "trickPlayFiles": [
+                                    {
+                                        "url": "_",
+                                        "quality": "_"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "id": 1568,
+                            "title": "Less Stress Holidays",
+                            "episodeNumber": 12,
+                            "releaseDate": "2020-12-03T23:57:16.000Z",
+                            "thumbnail": "",
+                            "shortDescription": "",
+                            "longDescription": "",
+                            "content": {
+                                "dateAdded": "",
+                                "language": "",
+                                "duration": "",
+                                "videos": [
+                                    {
+                                        "url": "",
+                                        "quality": "",
+                                        "videoType": ""
+                                    }
+                                ],
+                                "captions": [
+                                    {
+                                        "url": "_",
+                                        "language": "_",
+                                        "captionType": "_"
+                                    }
+                                ],
+                                "trickPlayFiles": [
+                                    {
+                                        "url": "_",
+                                        "quality": "_"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "seasonNumber": 4,
+                    "episodes": []
+                }
+            ]
+        }
+    ],
+    "movies": [
+        {
+            "id": "_",
+            "title": "_",
+            "releaseDate": "_",
+            "thumbnail": "_",
+            "backgroundImage": "_",
+            "shortDescription": "_",
+            "longDescription": "_",
+            "content": {
+                "dateAdded": "_",
+                "language": "_",
+                "duration": 5400,
+                "videos": [
+                    {
+                        "url": "_",
+                        "quality": "_",
+                        "videoType": "_"
+                    }
+                ],
+                "captions": [
+                    {
+                        "url": "_",
+                        "language": "_",
+                        "captionType": "_"
+                    }
+                ],
+                "trickPlayFiles": [
+                    {
+                        "url": "_",
+                        "quality": "_"
+                    }
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,268 @@
+{
+  "providerName": "providerName",
+  "language": "language",
+  "lastUpdated": "lastupdated",
+  "series": [
+    {
+      "id": "id_pm",
+      "title": "title",
+      "releaseDate": "2020-06-01",
+      "thumbnail": "https://d30c56ftg2gm3u.cloudfront.net/Images/House_of_Bond_KeyArt.jpg",
+      "thumbnailBoxcover": "https://d30c56ftg2gm3u.cloudfront.net/Images/House_of_Bond_boxcover.jpg",
+      "genres": [
+        "drama"
+      ],
+      "tags": [
+        "drama",
+        "tycoon",
+        "wealth"
+      ],
+      "seasons": [
+        {
+          "seasonNumber": 1,
+          "episodes": [
+            {
+              "id": "im184b96-4u4r-v966-9c8f-710ni501m7sw-s1e1",
+              "title": "Chasing the Dream",
+              "episodeNumber": 1,
+              "releaseDate": "2020-06-01",
+              "thumbnail": "https://d30c56ftg2gm3u.cloudfront.net/Images/House_of_Bond_Ep_01_background.jpg",
+              "shortDescription": "Alan takes us back to Fremantle in the late 1950’s - working as an apprentice signwriter. Young and brazen, he takes dancing lessons and meets the vivacious Eileen Hughes.",
+              "longDescription": "Alan takes us back to Fremantle in the late 1950’s - working as an apprentice signwriter. Young and brazen, he takes dancing lessons and meets the vivacious Eileen Hughes. Alan is determined to make his first million and soon sees the opportunity he’s been looking for - property. ",
+              "content": {
+                "dateAdded": "2020-06-29T16:37:32-05:00",
+                "language": "en-US",
+                "duration": 5400,
+                "videos": [
+                  {
+                    "url": "https://d30c56ftg2gm3u.cloudfront.net/Media/House_of_Bond_101_master.m3u8",
+                    "quality": "HD",
+                    "videoType": "HLS"
+                  }
+                ],
+                "captions": [
+                  {
+                    "url": "https://d30c56ftg2gm3u.cloudfront.net/ClosedCaptions/House_of_Bond_101_HD_25p.vtt",
+                    "language": "en-US",
+                    "captionType": "CLOSED_CAPTION"
+                  }
+                ],
+                "trickPlayFiles": [
+                  {
+                    "url": "https://d30c56ftg2gm3u.cloudfront.net/Media/House_of_Bond_101_HD.bif",
+                    "quality": "HD"
+                  },
+                  {
+                    "url": "https://d30c56ftg2gm3u.cloudfront.net/Media/House_of_Bond_101_SD.bif",
+                    "quality": "SD"
+                  }
+                ],
+                "adBreaks": [
+                  "00:12:05",
+                  "00:25:17",
+                  "00:36:14",
+                  "00:48:33",
+                  "00:58:11"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "movies": [
+    {
+      "id": "iq321d92-0q3s-h798-9b9w-807qv496u9wp",
+      "title": "Keeping Up With The Kandasamys",
+      "releaseDate": "2020-06-01",
+      "thumbnail": "https://d30c56ftg2gm3u.cloudfront.net/Images/Keeping_Up_with_the_Kandasamys_KeyArt.jpg",
+      "backgroundImage": "https://d30c56ftg2gm3u.cloudfront.net/Images/Keeping_Up_with_the_Kandasamys_boxcover.jpg",
+      "shortDescription": "Matriarchal rivals of neighboring families, whose young adult children become romantically involved - try despite their best efforts - to keep them apart with hilarious results.",
+      "longDescription": "Matriarchal rivals of neighboring families, whose young adult children become romantically involved - try despite their best efforts - to keep them apart with hilarious results.",
+      "genres": [
+        "comedy",
+        "drama"
+      ],
+      "tags": [
+        "family",
+        "romance",
+        "comedy"
+      ],
+      "content": {
+        "dateAdded": "2020-06-29T16:37:32-05:00",
+        "language": "en-US",
+        "duration": 5400,
+        "videos": [
+          {
+            "url": "https://d30c56ftg2gm3u.cloudfront.net/Media/Keeping_Up_With_The_Kandasamys_master.m3u8",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ],
+        "captions": [
+          {
+            "url": "https://d30c56ftg2gm3u.cloudfront.net/ClosedCaptions/Keeping_Up_With_The_Kandasamys_HD_25p.vtt",
+            "language": "en-US",
+            "captionType": "CLOSED_CAPTION"
+          }
+        ],
+        "trickPlayFiles": [
+          {
+            "url": "https://d30c56ftg2gm3u.cloudfront.net/Media/Keeping_Up_With_The_Kandasamys_HD.bif",
+            "quality": "HD"
+          },
+          {
+            "url": "https://d30c56ftg2gm3u.cloudfront.net/Media/Keeping_Up_With_The_Kandasamys_SD.bif",
+            "quality": "SD"
+          }
+        ],
+        "adBreaks": [
+          "00:11:46",
+          "00:22:30",
+          "00:33:07",
+          "00:43:49",
+          "00:54:13",
+          "01:05:11",
+          "01:15:44"
+        ]
+      }
+    }
+  ]
+}
+
+ 
+{
+  "providerName": "{{titles|title.title}}",
+  "language": "en-US",
+  "lastUpdated": "{{titles|title.updated_at}}",
+  "series": [
+    {
+      "id": "{{series|series[0].id}}",
+      "title": "{{series|series[0].series_name}}",
+      "releaseDate": "{{series|series[0].created_at}}",
+      "thumbnail": "{{series|series[0].resources[3].file_location}}",
+      "thumbnailBoxcover": "{{series|series[0].resources[7].file_location}}",
+      "genres": [
+        {
+          "name":"{{series|series[0].genres[0].name}}"
+        }
+      ],
+      "tags": [
+        "drama",
+        "tycoon",
+        "wealth"
+      ],
+      "seasons": [
+        {
+          "seasonNumber": "{{seasons|season[0].season_number}}",
+          "`episodes`": [
+            {
+              "id": "{{seasons|season[0].titles[5].id}}",
+              "title": "{{seasons|season[0].titles[5].title}}",
+              "episodeNumber": "{{seasons|season[0].titles[5].episode_number}}",
+              "releaseDate": "{{seasons|season[0].titles[5].created_at}}",
+              "thumbnail": "{{titles|title.resources[3].file_location}}",
+              "shortDescription": "{{titles|title.descriptions[0].description_minor}}",
+              "longDescription": "{{titles|title.descriptions[0].description_major}}",
+              "content": {
+                "dateAdded": "{{titles|title.content.}}",
+                "language": "{{titles|title.content}}",
+                "duration":  "{{titles|title.content}}",
+                "videos": [
+                  {
+                    "url": "{{titles|title.resources[1].file_location}}",
+                    "quality": "{{titles|title.videos}}",
+                    "videoType": "{{titles|title.videos}}"
+                  }
+                ],
+                "captions": [
+                  {
+                    "url": "{{titles|title.resources[4].file_location}}",
+                    "language": "{{titles|title.resources[4].language}}",
+                    "captionType": "{{titles|title.resources[4].resource_type}}"
+                  }
+                ],
+                "trickPlayFiles": [
+                  {
+                    "url":"{{titles|title.trickPlayFiles}",
+                    "quality": "{{titles|title.trickPlayFiles}}"
+                  },
+                  {
+                    "url":"{{titles|title.trickPlayFiles}",
+                    "quality": "{{titles|title.trickPlayFiles}"
+                  }
+                ],
+                "adBreaks": [
+                  "00:12:05",
+                  "00:25:17",
+                  "00:36:14",
+                  "00:48:33",
+                  "00:58:11"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "movies": [
+    {
+      "id": "iq321d92-0q3s-h798-9b9w-807qv496u9wp",
+      "title": "Keeping Up With The Kandasamys",
+      "releaseDate": "2020-06-01",
+      "thumbnail": "https://d30c56ftg2gm3u.cloudfront.net/Images/Keeping_Up_with_the_Kandasamys_KeyArt.jpg",
+      "backgroundImage": "https://d30c56ftg2gm3u.cloudfront.net/Images/Keeping_Up_with_the_Kandasamys_boxcover.jpg",
+      "shortDescription": "Matriarchal rivals of neighboring families, whose young adult children become romantically involved - try despite their best efforts - to keep them apart with hilarious results.",
+      "longDescription": "Matriarchal rivals of neighboring families, whose young adult children become romantically involved - try despite their best efforts - to keep them apart with hilarious results.",
+      "genres": [
+        "comedy",
+        "drama"
+      ],
+      "tags": [
+        "family",
+        "romance",
+        "comedy"
+      ],
+      "content": {
+        "dateAdded": "2020-06-29T16:37:32-05:00",
+        "language": "en-US",
+        "duration": 5400,
+        "videos": [
+          {
+            "url": "https://d30c56ftg2gm3u.cloudfront.net/Media/Keeping_Up_With_The_Kandasamys_master.m3u8",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ],
+        "captions": [
+          {
+            "url": "https://d30c56ftg2gm3u.cloudfront.net/ClosedCaptions/Keeping_Up_With_The_Kandasamys_HD_25p.vtt",
+            "language": "en-US",
+            "captionType": "CLOSED_CAPTION"
+          }
+        ],
+        "trickPlayFiles": [
+          {
+            "url": "https://d30c56ftg2gm3u.cloudfront.net/Media/Keeping_Up_With_The_Kandasamys_HD.bif",
+            "quality": "HD"
+          },
+          {
+            "url": "https://d30c56ftg2gm3u.cloudfront.net/Media/Keeping_Up_With_The_Kandasamys_SD.bif",
+            "quality": "SD"
+          }
+        ],
+        "adBreaks": [
+          "00:11:46",
+          "00:22:30",
+          "00:33:07",
+          "00:43:49",
+          "00:54:13",
+          "01:05:11",
+          "01:15:44"
+        ]
+      }
+    }
+  ]
+}

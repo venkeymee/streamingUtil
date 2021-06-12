@@ -1,0 +1,134 @@
+{ "providerName": "{{titles|title.title}}",
+  "language": "en-US",
+  "lastUpdated": "{{titles|title.updated_at}}",
+  "series": [
+    {
+      "id": "{{series|id}}",
+      "title": "{{series|series_name}}",
+      "releaseDate":"{{series|created_at}}",
+      "thumbnail": "{{series|thumnails}}",
+      "thumbnailBoxcover": "{{series|thumnails}}",
+      "genres": [
+        {
+          
+          "name":"{{series|genres[index].name}}"
+        }
+      ],
+      "tags": [
+        "drama",
+        "tycoon",
+        "wealth"
+      ],
+      "seasons": [
+        {
+          "seasonNumber": "{{seasons|seasons[index].season_number}}",
+          "episodes": [
+            {
+              "id": "{{episodes|seasons[index].episodes[index].id}}",
+              "title": "{{episodes|seasons[index].episodes[index].title}}",
+              "episodeNumber":"{{episodes|seasons[index].episodes[index].episode_number}}",
+              "releaseDate": "{{episodes|seasons[index].episodes[index].created_at}}",
+              "thumbnail": "{{episodes|seasons[index].episodes[index].thumbnail}}",
+              "shortDescription": "{{episodes|seasons[index].episodes[index].shortDescription}}",
+              "longDescription": "{{episodes|seasons[index].episodes[index].longDescription}}",
+              "content": {
+                "dateAdded": "{{episodes|seasons[index].episodes[index].content.dateAdded}}",
+                "language": "{{episodes|seasons[index].episodes[index].content.language}}",
+                "duration": "{{episodes|seasons[index].episodes[index].content.duration}}",
+                "videos": [
+                  {
+                    "url": "{{episodes|seasons[index].episodes[index].videos[index].url}}",
+                    "quality": "{{episodes|seasons[index].episodes[index].videos[index].quality}}",
+                    "videoType": "{{episodes|seasons[index].episodes[index].videos[index].videoType}}"
+                  }
+                ],
+                "captions": [
+                  {
+                    "url": "https://d30c56ftg2gm3u.cloudfront.net/ClosedCaptions/House_of_Bond_101_HD_25p.vtt",
+                    "language": "en-US",
+                    "captionType": "CLOSED_CAPTION"
+                  }
+                ],
+                "trickPlayFiles": [
+                  {
+                    "url": "https://d30c56ftg2gm3u.cloudfront.net/Media/House_of_Bond_101_HD.bif",
+                    "quality": "HD"
+                  },
+                  {
+                    "url": "https://d30c56ftg2gm3u.cloudfront.net/Media/House_of_Bond_101_SD.bif",
+                    "quality": "SD"
+                  }
+                ],
+                "adBreaks": [
+                  "00:12:05",
+                  "00:25:17",
+                  "00:36:14",
+                  "00:48:33",
+                  "00:58:11"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "movies": [
+    {
+      "id": "iq321d92-0q3s-h798-9b9w-807qv496u9wp",
+      "title": "Keeping Up With The Kandasamys",
+      "releaseDate": "2020-06-01",
+      "thumbnail": "https://d30c56ftg2gm3u.cloudfront.net/Images/Keeping_Up_with_the_Kandasamys_KeyArt.jpg",
+      "backgroundImage": "https://d30c56ftg2gm3u.cloudfront.net/Images/Keeping_Up_with_the_Kandasamys_boxcover.jpg",
+      "shortDescription": "Matriarchal rivals of neighboring families, whose young adult children become romantically involved - try despite their best efforts - to keep them apart with hilarious results.",
+      "longDescription": "Matriarchal rivals of neighboring families, whose young adult children become romantically involved - try despite their best efforts - to keep them apart with hilarious results.",
+      "genres": [
+        "comedy",
+        "drama"
+      ],
+      "tags": [
+        "family",
+        "romance",
+        "comedy"
+      ],
+      "content": {
+        "dateAdded": "2020-06-29T16:37:32-05:00",
+        "language": "en-US",
+        "duration": 5400,
+        "videos": [
+          {
+            "url": "https://d30c56ftg2gm3u.cloudfront.net/Media/Keeping_Up_With_The_Kandasamys_master.m3u8",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ],
+        "captions": [
+          {
+            "url": "https://d30c56ftg2gm3u.cloudfront.net/ClosedCaptions/Keeping_Up_With_The_Kandasamys_HD_25p.vtt",
+            "language": "en-US",
+            "captionType": "CLOSED_CAPTION"
+          }
+        ],
+        "trickPlayFiles": [
+          {
+            "url": "https://d30c56ftg2gm3u.cloudfront.net/Media/Keeping_Up_With_The_Kandasamys_HD.bif",
+            "quality": "HD"
+          },
+          {
+            "url": "https://d30c56ftg2gm3u.cloudfront.net/Media/Keeping_Up_With_The_Kandasamys_SD.bif",
+            "quality": "SD"
+          }
+        ],
+        "adBreaks": [
+          "00:11:46",
+          "00:22:30",
+          "00:33:07",
+          "00:43:49",
+          "00:54:13",
+          "01:05:11",
+          "01:15:44"
+        ]
+      }
+    }
+  ]
+}
